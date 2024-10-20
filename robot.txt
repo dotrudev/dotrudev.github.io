@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+# weird, right? This guy that made a website? For a family?
+welcome to the deepweb(if you know what it is...)
+
+If you found this page, then you know some things about the web! Youtube teaches ppl lots of things that are useless: this page is for crawlers, not humans, so it is rather useless for you to read this...
+
+please be safe!
+
+me
